@@ -9,4 +9,4 @@ Each process has one thread.
 More information about Phase2 is available here [Phase2: Multiprogramming](https://web.stanford.edu/class/cs140/projects/pintos/pintos_3.html#SEC32)  
 
 ### Previous Phase:  
-[Phase1: Threads](https://github.com/SaraYoussef1/Pintos_phase1)  
+[Phase1: Threads](https://github.com/SaraYoussef1/Pintos-phase1)
